@@ -1,5 +1,5 @@
-.post-title a {
+.post-title a,
+.post-body a {
 	font-family: iranyekan !important;
 	letter-spacing: 0 !important;
 }
-
