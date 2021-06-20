@@ -1,6 +1,6 @@
-﻿@import url(fontiran.css);
+﻿@import url(iranyekan.fontiran.css);
 
-body, h1, h2, h3, h4, h5, h6,input, textarea, p, .btn {
+body, h1, h2, h3, h4, h5, h6,input, textarea, p {
 	font-family: iranyekan !important;
 	letter-spacing: 0 !important;
 }
