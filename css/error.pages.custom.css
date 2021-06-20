@@ -1,0 +1,58 @@
+/* hrbozorg: */
+body {
+	text-align: right;
+}
+
+.byte-instagram {
+	display: block;
+	text-indent: -9999px;
+	width: 35px;
+	height: 35px;
+	background-image: url(../../media/svg/logos/instagram-2016.svg);
+	background-repeat: no-repeat;
+	background-size: 35px 35px;
+	margin: auto;
+}
+
+.contents__box {
+	width: 100%;
+}
+
+footer .content-bottom .footer-references a {
+	font-size: 12px !important;
+}
+
+.sidebar__menu_wrap .sidebar__menu__item a, .header__references_home, .header__references_theme, .header__references_hire {
+	letter-spacing: 0 !important;
+}
+
+.btn-primary {
+	color: #fff;
+	background-color: #FF008A;
+	border-color: #FF008A;
+}
+
+.btn-primary:hover {
+	color: #FF008A;
+	background-color: #fff;
+	border-color: #fff;
+}
+
+.btn-outline-primary {
+	color: #FF008A;
+	border-color: #FF008A;
+}
+
+.btn-outline-primary:hover {
+	color: #fff;
+	background-color: #FF008A;
+	border-color: #FF008A;
+}
+
+.border-primary {
+	border-color: #FF008A !important;
+}
+
+.bg-primary {
+	background-color: #FF008A !important;
+}
